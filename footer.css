@@ -21,8 +21,8 @@ footer {
 	flex-direction: row;
 	align-items: flex-end;
 	img{
-		width: 5vw;
-		height:5vw;
+		width: 4vw;
+		height:4vw;
 	}
 	h1{
 		font-size: 3vw;
@@ -47,8 +47,8 @@ footer {
 	align-items: center;
 }
 .footer_left_bot img{
-	width: 3vw;
-	height:3vw;
+	width: 2vw;
+	height:2vw;
 }
 .footer_right_1{
 	display:flex;
@@ -74,7 +74,7 @@ footer {
 	padding:0px 2vw 0px 2vw;
 }
 .footer_right_2 img{
-	width: 20vw;
+	width: 15vw;
 	height: 4vw;
 	
 }
