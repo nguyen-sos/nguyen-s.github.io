@@ -39,7 +39,7 @@ header{
 			display: block;
 			width: 0;
 			height: 2px;
-			background: #FFFFCC;
+			background: linear-gradient(to right, #FFCC66, #FFCC33);;
 			transition: width .3s;
 		}
 		header a { 
