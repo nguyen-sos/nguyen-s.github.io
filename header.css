@@ -5,13 +5,15 @@ header{
 			justify-content:space-between;
 			padding: 5px 15px 20% 15px 100%;
 		}
-		.nav{
+		.nav {
 			display:flex;
 			flex-direction:row;
 			justify-content:center;
 			align-self:center;
+			
+			
 		}
-		.nav>p{
+		.nav>p {
 			font-size:1.7em;
 			padding: 0px 3% 0px 3%;
 		}
@@ -19,6 +21,8 @@ header{
 			display:flex;
 			align-items:center;
 			justify-content:center;
+			
+			
 			
 		}
 		.menu span{
@@ -32,19 +36,19 @@ header{
 		}
 		.logo>h1{
 			margin :0px;
-			border-bottom: 2px solid black;
+			border-bottom: 2px solid red;
 		}
 		header>p:after {
 			content: "";
 			display: block;
 			width: 0;
 			height: 2px;
-			background: linear-gradient(to right, #FFCC66, #FFCC33);;
+			background: red;
 			transition: width .3s;
 		}
 		header a { 
 			text-decoration: none;
-			color: black;
+			color: red;
 		}
          header a:hover {
 			 text-decoration: underline; 
