@@ -39,7 +39,7 @@ header{
 			display: block;
 			width: 0;
 			height: 2px;
-			background: black;
+			background: #FFFFCC;
 			transition: width .3s;
 		}
 		header a { 
